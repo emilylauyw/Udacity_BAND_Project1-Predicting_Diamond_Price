@@ -1,1 +1,7 @@
-# Udacity_BAND_Project1-Predicting_Diamond_Price
+# Udacity BAND Project1 - Predicting Diamond Price
+
+# Description
+
+
+### Files
+1. 
